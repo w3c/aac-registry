@@ -2,8 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Spec proposal</title>
+    <title>Adapt Registry for Symbols</title>
     <script src="https://www.w3.org/Tools/respec/respec-w3c" class="remove"></script>
+
     <script class='remove'>
       // See https://github.com/w3c/respec/wiki/ for how to configure ReSpec
       var respecConfig = {
@@ -27,11 +28,20 @@
        
       };
     </script>
+    <style type="text/css">
+    table,th,td
+      {
+        border:1px solid black;
+        border-collapse:collapse;
+        padding: 0.3em;
+      }
+    </style>
   </head>
   <body>
     <section id="abstract">
       <p>
-        This specification does neat stuff.
+        This document serves as the <a href="https://www.w3.org/Consortium/Process/#w3c-registry">W3C registry</a> of <a href="https://www.w3.org/TR/adapt-content/">WAI-Adapt: Content Module</a>, which
+        includes symbols of <a href="https://www.w3.org/TR/adapt-content/#symbol-explanation">symbol attribute</a>.
       </p>
     </section>
     <section id="sotd">
@@ -40,10 +50,61 @@
 
     <section id="introduction">
       <h2>Introduction</h2>
-      <p>
-        See <a href="https://github.com/w3c/respec/wiki/User's-Guide">ReSpec's user guide</a>
-        for how toget started!
-      </p>
+      
+          <p>The <code>symbol</code> attribute identifies the concept for symbols used in <abbr title="Augmentative and Alternative Communication">AAC</abbr> devices, etc., for users who cannot process languages. The symbols are an alternative vocabulary, and multiple symbol sets exist today.</p>
+          <p>The <code>symbol</code> attribute accepts a numeric reference number.</p>
+          <p>A personalization agent can then augment or translate User Interfaces by:</p>
+          <ul>
+            <li>converting text to symbols,</li>
+            <li>facilitating symbol-set translation: loading alternative, locally stored symbols that the user is familiar with, so they do not have to learn new symbols across different applications.</li>
+          </ul>
+          <p></p>
+          <p>In some languages words and symbols are conjugated with sex or tense. In these cases more than one value maybe needed to map to a symbol. Authors should join values that map to a single conjugated word with a plus (<code>+</code>) sign (with no spaces between the values). See <a href="https://github.com/w3c/adapt/wiki/Best-practices-for-symbol-values">best practices for symbol values</a>.</p>
+<p>When there is more than one concept that is not part of a single conjugated term, multiple concepts can be referenced by separating them with white space. The order of multiple concepts should be the same as used in typical speech in the natural language of the content.</p>
+<p>This document provides reference numbers and symbols for symbol attribute.</p>
+      
+ 
+    </section>
+    <section>
+    <h2>Symbol Registry</h2>
+    <table>
+    <caption>Symbol Registry Table</caption>
+    
+    <thead>
+        <tr>
+          <th>
+            ID
+          </th>
+          <th>
+            Symbol
+          </th>
+          <th>
+           English
+          </th>
+          <th>
+            Derivation - explanation
+          </th>
+        </tr>
+     </thead>
+       <tbody> 
+        <tr>
+          <td>
+            8483
+          </td>
+          <td>
+            （symbol icon）
+          </td>
+          <td>
+            exclamation_mark
+          </td>
+          <td>
+            (punctuation mark - 1. used as punctuation in symbol sentences; 2. used to indicate that the symbol statement that follows it is in the imperative form) - Character
+          </td>
+        
+        </tr>
+        
+      </tbody>
+      </table>
     </section>
   </body>
 </html>
