@@ -24,7 +24,7 @@ dfn{cursor:pointer}
 </style>
     
     
-<title>Spec proposal</title>
+<title>Adapt Registry for Symbols</title>
     
 <style id="respec-mainstyle">
 @keyframes pop{
@@ -84,9 +84,22 @@ dd{margin-left:0}
 .removeOnSave{display:none}
 }
 </style>
+
     
+    
+<style type="text/css">
+
+    table,th,td
+      {
+        border:1px solid black;
+        border-collapse:collapse;
+        padding: 0.3em;
+      }
+    
+</style>
   
-<meta name="description" content="This specification does neat stuff.">
+<meta name="description" content="This document serves as the W3C registry of WAI-Adapt: Content Module, which
+        includes symbols of symbol attribute.">
 <link rel="canonical" href="https://www.w3.org/TR/adapt-registry/">
 <style>
 var{position:relative;cursor:pointer}
@@ -119,7 +132,7 @@ var[data-type]:hover::after,var[data-type]:hover::before{opacity:1}
   <body class="h-entry informative"><div class="head">
     <p class="logos"><a class="logo" href="https://www.w3.org/"><img crossorigin="" alt="W3C" height="48" src="https://www.w3.org/StyleSheets/TR/2021/logos/W3C" width="72">
   </a></p>
-    <h1 id="title" class="title">Spec proposal</h1> 
+    <h1 id="title" class="title">Adapt Registry for Symbols</h1> 
     <p id="w3c-state"><a href="https://www.w3.org/standards/types#DRY">W3C Draft Registry</a> <time class="dt-published" datetime="2022-10-05">05 October 2022</time></p>
     <details open="">
       <summary>More details about this document</summary>
@@ -174,7 +187,8 @@ var[data-type]:hover::after,var[data-type]:hover::before{opacity:1}
   </div>
     <section id="abstract" class="introductory"><h2>Abstract</h2>
       <p>
-        This specification does neat stuff.
+        This document serves as the <a href="https://www.w3.org/Consortium/Process/#w3c-registry"><abbr title="World Wide Web Consortium">W3C</abbr> registry</a> of <a href="https://www.w3.org/TR/adapt-content/">WAI-Adapt: Content Module</a>, which
+        includes symbols of <a href="https://www.w3.org/TR/adapt-content/#symbol-explanation">symbol attribute</a>.
       </p>
     </section>
     <section id="sotd" class="introductory"><h2>Status of This Document</h2><p><em>This section describes the status of this
@@ -205,14 +219,65 @@ var[data-type]:hover::after,var[data-type]:hover::before{opacity:1}
   </p><p>
                   This document is governed by the
                   <a id="w3c_process_revision" href="https://www.w3.org/2021/Process-20211102/">2 November 2021 <abbr title="World Wide Web Consortium">W3C</abbr> Process Document</a>.
-                </p></section><nav id="toc"><h2 class="introductory" id="table-of-contents">Table of Contents</h2><ol class="toc"><li class="tocline"><a class="tocxref" href="#abstract">Abstract</a></li><li class="tocline"><a class="tocxref" href="#sotd">Status of This Document</a></li><li class="tocline"><a class="tocxref" href="#introduction"><bdi class="secno">1. </bdi>Introduction</a></li></ol></nav>
+                </p></section><nav id="toc"><h2 class="introductory" id="table-of-contents">Table of Contents</h2><ol class="toc"><li class="tocline"><a class="tocxref" href="#abstract">Abstract</a></li><li class="tocline"><a class="tocxref" href="#sotd">Status of This Document</a></li><li class="tocline"><a class="tocxref" href="#introduction"><bdi class="secno">1. </bdi>Introduction</a></li><li class="tocline"><a class="tocxref" href="#symbol-registry"><bdi class="secno">2. </bdi>Symbol Registry</a></li></ol></nav>
 
     <section id="introduction"><div class="header-wrapper"><h2 id="x1-introduction"><bdi class="secno">1. </bdi>Introduction</h2><a class="self-link" href="#introduction" aria-label="Permalink for Section 1."></a></div>
       
-      <p>
-        See <a href="https://github.com/w3c/respec/wiki/User's-Guide">ReSpec's user guide</a>
-        for how toget started!
-      </p>
+      
+          <p>The <code>symbol</code> attribute identifies the concept for symbols used in <abbr title="Augmentative and Alternative Communication">AAC</abbr> devices, etc., for users who cannot process languages. The symbols are an alternative vocabulary, and multiple symbol sets exist today.</p>
+          <p>The <code>symbol</code> attribute accepts a numeric reference number.</p>
+          <p>A personalization agent can then augment or translate User Interfaces by:</p>
+          <ul>
+            <li>converting text to symbols,</li>
+            <li>facilitating symbol-set translation: loading alternative, locally stored symbols that the user is familiar with, so they do not have to learn new symbols across different applications.</li>
+          </ul>
+          <p></p>
+          <p>In some languages words and symbols are conjugated with sex or tense. In these cases more than one value maybe needed to map to a symbol. Authors should join values that map to a single conjugated word with a plus (<code>+</code>) sign (with no spaces between the values). See <a href="https://github.com/w3c/adapt/wiki/Best-practices-for-symbol-values">best practices for symbol values</a>.</p>
+<p>When there is more than one concept that is not part of a single conjugated term, multiple concepts can be referenced by separating them with white space. The order of multiple concepts should be the same as used in typical speech in the natural language of the content.</p>
+<p>This document provides reference numbers and symbols for symbol attribute.</p>
+      
+ 
+    </section>
+    <section id="symbol-registry"><div class="header-wrapper"><h2 id="x2-symbol-registry"><bdi class="secno">2. </bdi>Symbol Registry</h2><a class="self-link" href="#symbol-registry" aria-label="Permalink for Section 2."></a></div>
+    
+    <table>
+    <caption>Symbol Registry Table</caption>
+    
+    <thead>
+        <tr>
+          <th>
+            ID
+          </th>
+          <th>
+            Symbol
+          </th>
+          <th>
+           English
+          </th>
+          <th>
+            Derivation - explanation
+          </th>
+        </tr>
+     </thead>
+       <tbody> 
+        <tr>
+          <td>
+            8483
+          </td>
+          <td>
+            （symbol icon）
+          </td>
+          <td>
+            exclamation_mark
+          </td>
+          <td>
+            (punctuation mark - 1. used as punctuation in symbol sentences; 2. used to indicate that the symbol statement that follows it is in the imperative form) - Character
+          </td>
+        
+        </tr>
+        
+      </tbody>
+      </table>
     </section>
   
 
