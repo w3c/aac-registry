@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>Adapt Registry for Symbols</title>
     <script src="https://www.w3.org/Tools/respec/respec-w3c" class="remove"></script>
+    <script src="script/display-registry.js" class="remove"></script>
 
     <script class='remove'>
       // See https://github.com/w3c/respec/wiki/ for how to configure ReSpec
@@ -24,6 +25,8 @@
           branch: "main",
           repoURL: "w3c/adapt-registry",
         },
+        
+        postRespec: [addTableToDoc("symbol-registry-generated", "data/blissymbolics.json")]
   
        
       };
@@ -64,6 +67,10 @@
 <p>This document provides reference numbers and symbols for symbol attribute.</p>
       
  
+    </section>
+    <section id="symbol-registry-generated">
+      <h2>Symbol registry (generated)</h2>
+      <p><a href="data/blissymbolics.json">JSON registry data</a></p>
     </section>
     <section>
     <h2>Symbol Registry</h2>
