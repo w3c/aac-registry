@@ -26,7 +26,7 @@
           repoURL: "w3c/adapt-registry",
         },
         
-        postRespec: [addTableToDoc("symbol-registry-generated", "data/blissymbolics.json")]
+        postRespec: [fillTable("symbol-registry-table", "data/blissymbolics.json")]
   
        
       };
@@ -68,13 +68,10 @@
       
  
     </section>
-    <section id="symbol-registry-generated">
-      <h2>Symbol registry (generated)</h2>
-      <p><a href="data/blissymbolics.json">JSON registry data</a></p>
-    </section>
     <section>
     <h2>Symbol Registry</h2>
-    <table>
+      <p><a href="data/blissymbolics.json">JSON registry data</a></p>
+      <table id="symbol-registry-table">
     <caption>Symbol Registry Table</caption>
     
     <thead>
@@ -88,23 +85,14 @@
           <th>
            English
           </th>
+          <th>
+            Derivation
+          </th>
 
         </tr>
      </thead>
        <tbody> 
-        <tr>
-          <td>
-            8483
-          </td>
-          <td>
-            （symbol icon）
-          </td>
-          <td>
-            exclamation_mark
-          </td>
-        
-        </tr>
-        
+         <!-- rows are placed here -->
       </tbody>
       </table>
     </section>
