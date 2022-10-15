@@ -11,6 +11,7 @@ function buildHtmlTable(id, arr) {
     img.setAttribute("src", "reference-images/" + arr[i]["bciav"]);
     img.setAttribute("alt", "");
     img.setAttribute("loading", "lazy");
+    img.setAttribute("class", "reference-image");
     
     td.appendChild(img);
     tr.appendChild(td);
