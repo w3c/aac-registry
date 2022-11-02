@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill-rule="evenodd" height="4.5in" preserveAspectRatio="none" stroke-linecap="round" viewBox="0 0 356 324" width="4.9375in">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.font0 { font-size: 11px; font-family: "MS Sans Serif"; }
+.pen1 { stroke: rgb(0,0,0); stroke-width: 7; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.font1 { font-weight: bold; font-size: 16px; font-family: System, sans-serif; }
+</style>
+<g>
+<path class="pen1" d="M 314.89381678346916,129.22806732336755 A 45.0,44.5 0 0 0 248.0425932509952,128.20044863397945" fill="none"/>
+<path class="pen1" d="M 297.496432818032,146.44432398408938 A 22.0,22.0 0 0 0 265.44365081389594,145.44365081389594" fill="none"/>
+<line class="pen1" fill="none" x1="218" x2="282" y1="162" y2="162"/>
+<line class="pen1" fill="none" x1="282" x2="282" y1="162" y2="226"/>
+<line class="pen1" fill="none" x1="282" x2="218" y1="226" y2="226"/>
+<line class="pen1" fill="none" x1="218" x2="218" y1="226" y2="162"/>
+<line class="pen1" fill="none" x1="282" x2="346" y1="162" y2="162"/>
+<line class="pen1" fill="none" x1="346" x2="346" y1="162" y2="226"/>
+<line class="pen1" fill="none" x1="346" x2="282" y1="226" y2="226"/>
+<line class="pen1" fill="none" x1="282" x2="282" y1="226" y2="162"/>
+<path class="pen1" d="M 250.18960422511782,257.79816324422944 A 45.0,45.0 0 0 0 312.81980515339467,256.8198051533946" fill="none"/>
+<path class="pen1" d="M 266.4443239840894,241.49643281803205 A 22.0,22.0 0 0 0 296.55634918610406,240.55634918610406" fill="none"/>
+<line class="pen1" fill="none" x1="10" x2="138" y1="130" y2="258"/>
+<circle class="pen1" cx="73.5" cy="193.5" fill="none" r="63.5"/>
+<line class="pen1" fill="none" x1="186" x2="154" y1="226" y2="258"/>
+<line class="pen1" fill="none" x1="154" x2="186" y1="258" y2="290"/>
+</g>
+</svg>

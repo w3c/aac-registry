@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill-rule="evenodd" height="4.5in" preserveAspectRatio="none" stroke-linecap="round" viewBox="0 0 276 324" width="3.8333333333333335in">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.font0 { font-size: 11px; font-family: "MS Sans Serif"; }
+.pen1 { stroke: rgb(0,0,0); stroke-width: 7; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.font1 { font-weight: bold; font-size: 16px; font-family: System, sans-serif; }
+</style>
+<g>
+<path class="pen1" d="M 105.99998450068972,130.00196841240611 A 63.5,63.5 0 0 0 42.00196841240612,193.9999845006897" fill="none"/>
+<path class="pen1" d="M 202.89381678346916,193.22806732336755 A 45.0,44.5 0 0 0 136.0425932509952,192.20044863397945" fill="none"/>
+<path class="pen1" d="M 202.18960422511782,193.7981632442294 A 45.0,45.0 0 0 0 264.81980515339467,192.81980515339464" fill="none"/>
+<line class="pen1" fill="none" x1="266" x2="138" y1="130" y2="258"/>
+<path class="pen1" d="M 40.65053501365563,240.60964213528155 A 21.5,22.0 0 0 0 41.120616069008214,209.88327477192755" fill="none"/>
+<path class="pen1" d="M 41.44365081389596,209.44365081389594 A 22.0,22.0 0 0 0 42.44432398408938,241.49643281803205" fill="none"/>
+<circle class="pen1" cx="41.5" cy="225.5" fill="none" r="31.5"/>
+</g>
+</svg>

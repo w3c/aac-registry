@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>Adapt Registry for Symbols</title>
     <script src="https://www.w3.org/Tools/respec/respec-w3c" class="remove"></script>
+    <script src="script/display-registry.js" class="remove"></script>
 
     <script class='remove'>
       // See https://github.com/w3c/respec/wiki/ for how to configure ReSpec
@@ -24,6 +25,8 @@
           branch: "main",
           repoURL: "w3c/adapt-registry",
         },
+        
+        postRespec: [fillTable("symbol-registry-table", "data/blissymbolics.json")]
   
        
       };
@@ -34,6 +37,10 @@
         border:1px solid black;
         border-collapse:collapse;
         padding: 0.3em;
+      }
+      .reference-image {
+      height: 4ex;
+      width: auto;
       }
     </style>
   </head>
@@ -67,37 +74,29 @@
     </section>
     <section>
     <h2>Symbol Registry</h2>
-    <table>
+      <p><a href="data/blissymbolics.json">JSON registry data</a></p>
+      <table id="symbol-registry-table">
     <caption>Symbol Registry Table</caption>
     
     <thead>
         <tr>
           <th>
-            ID
-          </th>
-          <th>
             Symbol
           </th>
           <th>
+            ID
+          </th>
+          <th>
            English
+          </th>
+          <th>
+            Derivation
           </th>
 
         </tr>
      </thead>
        <tbody> 
-        <tr>
-          <td>
-            8483
-          </td>
-          <td>
-            （symbol icon）
-          </td>
-          <td>
-            exclamation_mark
-          </td>
-        
-        </tr>
-        
+         <!-- rows are placed here -->
       </tbody>
       </table>
     </section>
