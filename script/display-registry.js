@@ -24,9 +24,9 @@ function buildHtmlTable(id, arr) {
     td.appendChild(document.createTextNode(arr[i]["english"] || ''));
     tr.appendChild(td);
 
-    td = _td_.cloneNode(false);
+ /*   td = _td_.cloneNode(false);
     td.appendChild(document.createTextNode(arr[i]["derivationExplanation"] || ''));
-    tr.appendChild(td);
+    tr.appendChild(td);*/
 
     tbody.appendChild(tr);
   }
