@@ -9,7 +9,7 @@ function buildHtmlTable(id, arr) {
     
     var img = document.createElement('img');
     img.setAttribute("src", "reference-images/" + arr[i]["bciav"]);
-    img.setAttribute("alt", "");
+    img.setAttribute("alt", "symbol of the" + arr[i]["english"]);
     img.setAttribute("loading", "lazy");
     img.setAttribute("class", "reference-image");
     
