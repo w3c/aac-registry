@@ -8,8 +8,8 @@ function buildHtmlTable(id, arr) {
     var td = _td_.cloneNode(false);
     
     var img = document.createElement('img');
-    img.setAttribute("src", "reference-images/" + arr[i]["bciav"]);
-    img.setAttribute("alt", "");
+    img.setAttribute("src", "reference-images/" + arr[i]["bciav"] + ".svg");
+    img.setAttribute("alt", "symbol of the " + arr[i]["english"]);
     img.setAttribute("loading", "lazy");
     img.setAttribute("class", "reference-image");
     
@@ -24,9 +24,9 @@ function buildHtmlTable(id, arr) {
     td.appendChild(document.createTextNode(arr[i]["english"] || ''));
     tr.appendChild(td);
 
-    td = _td_.cloneNode(false);
+ /*   td = _td_.cloneNode(false);
     td.appendChild(document.createTextNode(arr[i]["derivationExplanation"] || ''));
-    tr.appendChild(td);
+    tr.appendChild(td);*/
 
     tbody.appendChild(tr);
   }
