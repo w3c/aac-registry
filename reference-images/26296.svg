@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill-rule="evenodd" height="4.5in" preserveAspectRatio="none" stroke-linecap="round" viewBox="0 0 468 324" width="6.5in">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.font0 { font-size: 11px; font-family: "MS Sans Serif"; }
+.pen1 { stroke: rgb(0,0,0); stroke-width: 7; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.font1 { font-weight: bold; font-size: 16px; font-family: System, sans-serif; }
+</style>
+<g>
+<path class="pen1" d="M 11.046151303612106,161.86354548213754 A 126.5,127.5 0 0 0 74.69610204479847,256.7470163193628" fill="none"/>
+<path class="pen1" d="M 72.99627285096015,161.98455804386091 A 31.5,31.5 0 1 0 10.003967504266633,161.9999370237418" fill="none"/>
+<path class="pen1" d="M 136.99627285096017,161.98455804386091 A 31.5,31.5 0 1 0 74.00396750426663,161.9999370237418" fill="none"/>
+<path class="pen1" d="M 73.23834446969337,256.63990083873813 A 127.0,127.5 0 0 0 136.94971371099808,161.86354548213757" fill="none"/>
+<line class="pen1" fill="none" x1="202" x2="202" y1="130" y2="258"/>
+<line class="pen1" fill="none" x1="202" x2="170" y1="258" y2="226"/>
+<line class="pen1" fill="none" x1="202" x2="234" y1="258" y2="226"/>
+<line class="pen1" fill="none" x1="266" x2="266" y1="130" y2="258"/>
+<line class="pen1" fill="none" x1="298" x2="298" y1="194" y2="194"/>
+<path class="pen1" d="M 456.9980921477605,193.99223327246327 A 63.5,63.5 0 1 0 330.00196841240614,193.9999845006897" fill="none"/>
+<path class="pen1" d="M 392.81980515339467,192.81980515339464 A 45.0,45.0 0 0 0 393.3208100255128,129.68921528778446" fill="none"/>
+<path class="pen1" d="M 393.1801948466054,193.18019484660536 A 45.0,45.0 0 0 0 394.1896042251178,257.79816324422944" fill="none"/>
+</g>
+</svg>

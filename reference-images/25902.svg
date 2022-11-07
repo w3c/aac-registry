@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill-rule="evenodd" height="4.5in" preserveAspectRatio="none" stroke-linecap="round" viewBox="0 0 692 324" width="9.604166666666666in">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.font0 { font-size: 11px; font-family: "MS Sans Serif"; }
+.font1 { font-size: 78px; font-family: Arial; }
+.pen1 { stroke: rgb(0,0,0); stroke-width: 7; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.font2 { font-weight: bold; font-size: 16px; font-family: System, sans-serif; }
+.font3 { font-size: 52px; font-family: Arial; }
+</style>
+<g>
+<text class="font1" fill="rgb(0,0,0)" stroke="none" style="dominant-baseline: alphabetic;" x="490" xml:lang="en" xml:space="preserve" y="258">L</text>
+<line class="pen1" fill="none" x1="330" x2="458" y1="258" y2="258"/>
+<line class="pen1" fill="none" x1="394" x2="394" y1="194" y2="258"/>
+<line class="pen1" fill="none" x1="394" x2="458" y1="130" y2="130"/>
+<line class="pen1" fill="none" x1="458" x2="458" y1="130" y2="194"/>
+<line class="pen1" fill="none" x1="458" x2="394" y1="194" y2="194"/>
+<line class="pen1" fill="none" x1="394" x2="394" y1="194" y2="130"/>
+<path class="pen1" d="M 168.99809214776047,193.99223327246327 A 63.5,63.5 0 1 0 42.00196841240612,193.9999845006897" fill="none"/>
+<line class="pen1" fill="none" x1="42" x2="170" y1="258" y2="258"/>
+<line class="pen1" fill="none" x1="42" x2="42" y1="194" y2="258"/>
+<line class="pen1" fill="none" x1="170" x2="170" y1="194" y2="258"/>
+<path class="pen1" d="M 296.99627285096017,161.98455804386091 A 31.5,31.5 0 1 0 234.00396750426663,161.9999370237418" fill="none"/>
+<path class="pen1" d="M 233.1722459475495,256.53350659998927 A 127.5,127.5 0 0 0 296.94557872560836,161.86354548213757" fill="none"/>
+<circle class="pen1" cx="233.5" cy="193.5" fill="none" r="31.5"/>
+<text class="font1" fill="rgb(0,0,0)" stroke="none" style="dominant-baseline: alphabetic;" x="554" xml:lang="en" xml:space="preserve" y="258">A</text>
+<text class="font1" fill="rgb(0,0,0)" stroke="none" style="dominant-baseline: alphabetic;" x="618" xml:lang="en" xml:space="preserve" y="258">T</text>
+</g>
+</svg>
