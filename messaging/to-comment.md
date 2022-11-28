@@ -15,17 +15,3 @@ Whether you comment in a github issue or by email, please create separate GitHub
 
 Please send comments by Friday 13 January 2023.
 
-***Share***
-
-We encourage you to share this information widely. Please include @w3c_wai, @w3c,
-#accessibility, #a11y, @@ Here's a tweet text you can use:
-
-W3C announces the First Public Working Draft of *WAI-Adapt Registry for AAC Symbols*: https://www.w3.org/TR/adapt-registry/, providing first-time support for interoperable Augmentative and Alternative Communication (AAC) symbols support in web content.
-
-Regards,
-
-Sharon D Snider and Lionel Wolberger, Task Force Facilitators.
-
-Janina Sajka and Matthew Atkinson, APA Working Group Co-Chairs
-
-Roy Ran, W3C Staff Contact for APA Working Group
