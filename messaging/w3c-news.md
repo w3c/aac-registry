@@ -1,7 +1,7 @@
 WAI News:
 FOR REVIEW: *WAI-Adapt Registry for AAC Symbols* First Public Draft Registry specification
 
-The Accessible Platform Architectures (APA) WAI-Adapt Task Force (WAI-Adapt) welcomes feedback on the first public Draft Registry specification of the [WAI-Adapt Registry for AAC Symbols](https://www.w3.org/TR/adapt-registry/).
+The Accessible Platform Architectures (APA) WAI-Adapt Task Force (WAI-Adapt) welcomes feedback on the first public Draft Registry specification of the [WAI-Adapt Registry for AAC Symbols](https://www.w3.org/TR/aac-registry/).
 
 The purpose of this specification is to support Augmentative and Alternative Communication (AAC) symbols in web content. Millions of users comprehend AAC symbols better than standard text, but there are multiple AAC symbol sets and they are not mutually comprehensible. To solve this issue and make it possible for content creators to support AAC users in web content, this specification:
 
@@ -20,7 +20,7 @@ The purpose of this specification is to support Augmentative and Alternative Com
 
 For in-progress updates to the document, see the Editors' Draft at:
 
-https://w3c.github.io/adapt-registry/
+https://w3c.github.io/aac-registry/
 
 To comment, please use one of the following two methods:
 

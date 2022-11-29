@@ -4,7 +4,7 @@ W3C WAI invites you to comment on the First Public Working Draft of:
 
 WAI-Adapt Registry for AAC Symbols
 
-https://www.w3.org/TR/adapt-registry/
+https://www.w3.org/TR/aac-registry/
 
 *** Overview***
 
@@ -12,7 +12,7 @@ https://www.w3.org/TR/adapt-registry/
 
 For in-progress updates to the document, see the Editors' Draft at:
 
-https://w3c.github.io/adapt-registry/
+https://w3c.github.io/aac-registry/
 
 To comment, please use one of the following two methods:
 
@@ -34,7 +34,8 @@ Please send comments by Friday 13 January 2023.
 We encourage you to share this information widely. Please include @w3c_wai, @w3c,
 #accessibility, #a11y, @@ Here's a tweet text you can use:
 
-W3C announces the First Public Working Draft of *WAI-Adapt Registry for AAC Symbols*: https://www.w3.org/TR/adapt-registry/, providing first-time support for interoperable Augmentative and Alternative Communication (AAC) symbols support in web content.
+W3C announces the First Public Working Draft of *WAI-Adapt Registry for AAC
+Symbols*: https://www.w3.org/TR/aac-registry/, providing first-time support for interoperable Augmentative and Alternative Communication (AAC) symbols support in web content.
 
 Regards,
 

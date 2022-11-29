@@ -1,6 +1,6 @@
 For in-progress updates to the document, see the Editors' Draft at:
 
-https://w3c.github.io/adapt-registry/
+https://w3c.github.io/aac-registry/
 
 To comment, please use one of the following two methods:
 
