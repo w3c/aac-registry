@@ -2,13 +2,13 @@ Dear WAI Interest Group,
 
 W3C WAI invites you to comment on the First Public Working Draft of:
 
-WAI-Adapt Registry for AAC Symbols
+W3C Alternative and Augmented Communication (AAC) Symbol Registry
 
 https://www.w3.org/TR/aac-registry/
 
 *** Overview***
 
-\*The WAI-Adapt Registry provides an extensible registry for the Blissymbolics Communication International (BCI) concept index. This index provides a mapping between concepts expressed in standard text and  corresponding symbols in major Augmentative and Alternative Communication (AAC) symbol sets in use today.
+The AAC Registry provides an extensible registry for the Blissymbolics Communication International (BCI) concept index. This index provides a mapping between concepts expressed in standard text and  corresponding symbols in major Augmentative and Alternative Communication (AAC) symbol sets in use today.
 
 For in-progress updates to the document, see the Editors' Draft at:
 
@@ -34,8 +34,7 @@ Please send comments by Friday 13 January 2023.
 We encourage you to share this information widely. Please include @w3c_wai, @w3c,
 #accessibility, #a11y, @@ Here's a tweet text you can use:
 
-W3C announces the First Public Working Draft of *WAI-Adapt Registry for AAC
-Symbols*: https://www.w3.org/TR/aac-registry/, providing first-time support for interoperable Augmentative and Alternative Communication (AAC) symbols support in web content.
+W3C announces the First Public Registry Draft of *W3C Alternative and Augmented Communication (AAC) Symbol Registry*: https://www.w3.org/TR/aac-registry/, providing first-time support for interoperable Augmentative and Alternative Communication (AAC) symbols support in web content.
 
 Regards,
 
