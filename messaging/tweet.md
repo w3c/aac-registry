@@ -1,1 +1,1 @@
-W3C announces the First Public Working Draft of *WAI-Adapt Registry for AAC Symbols*: https://www.w3.org/TR/aac-registry/, providing first-time support for interoperable Augmentative and Alternative Communication (AAC) symbols support in web content.
+W3C announces the First Public Draft Registry of *W3C Alternative and Augmented Communication (AAC) Symbol Registrys*: https://www.w3.org/TR/aac-registry/, providing first-time support for interoperable Augmentative and Alternative Communication (AAC) symbols support in web content.
