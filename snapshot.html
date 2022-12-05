@@ -268,7 +268,8 @@ var[data-type]:hover::after,var[data-type]:hover::before{opacity:1}
     <section id="introduction"><div class="header-wrapper"><h2 id="x1-introduction"><bdi class="secno">1. </bdi>Introduction</h2><a class="self-link" href="#introduction" aria-label="Permalink for Section 1."></a></div>
       
       
-          <p>The <code>symbol</code> attribute identifies the concept for symbols used in <abbr title="Augmentative and Alternative Communication">AAC</abbr> devices, etc., for users who cannot process languages. The symbols are an alternative vocabulary, and multiple symbol sets exist today.</p>
+         <p>The <code>symbol</code> attribute identifies the concept for symbols used in <abbr title="Augmentative and Alternative Communication">AAC</abbr> devices, etc., for users who comprehend content more effectively when AAC (rather than
+    just natural language alone) is used to convey meaning. The symbols are an alternative vocabulary, and multiple symbol sets exist today.</p>
           <p>The <code>symbol</code> attribute accepts a numeric reference number.</p>
           <p>A personalization agent can then augment or translate User Interfaces by:</p>
           <ul>
@@ -276,7 +277,7 @@ var[data-type]:hover::after,var[data-type]:hover::before{opacity:1}
             <li>facilitating symbol-set translation: loading alternative, locally stored symbols that the user is familiar with, so they do not have to learn new symbols across different applications.</li>
           </ul>
           <p></p>
-          <p>In some languages words and symbols are conjugated with sex or tense. In these cases more than one value maybe needed to map to a symbol. Authors should join values that map to a single conjugated word with a plus (<code>+</code>) sign (with no spaces between the values). See <a href="https://github.com/w3c/adapt/wiki/Best-practices-for-symbol-values">best practices for symbol values</a>.</p>
+          <p>In some languages words and symbols are conjugated with sex or tense. In these cases more than one value may be needed to map to a symbol. Authors should join values that map to a single conjugated word with a plus (<code>+</code>) sign (with no spaces between the values). See <a href="https://github.com/w3c/adapt/wiki/Best-practices-for-symbol-values">best practices for symbol values</a>.</p>
           <p>When there is more than one concept that is not part of a single conjugated term, multiple concepts can be referenced by separating them with white space. The order of multiple concepts should be the same as used in typical speech in the natural language of the content.</p>
           <p>This document provides reference numbers and symbols for symbol attribute.</p>
       
@@ -284,13 +285,13 @@ var[data-type]:hover::after,var[data-type]:hover::before{opacity:1}
     </section>
     <section id="symbols-entry-requirements"><div class="header-wrapper"><h2 id="x2-symbols-entry-requirements"><bdi class="secno">2. </bdi>Symbols Entry Requirements</h2><a class="self-link" href="#symbols-entry-requirements" aria-label="Permalink for Section 2."></a></div>
       
-      <p>This <abbr title="World Wide Web Consortium">W3C</abbr> Registry specification  relies on the de facto industry standard for associating verbal and textual concepts with specific symbols in commonly used Augmentative and Alternative Communication (<abbr title="Augmentative and Alternative Communication">AAC</abbr>)
-      symbol sets as developed by <a href="https://www.blissymbolics.org/">Blissymbolics Communication International (BCI)</a>. Additions and extensions to the symbol and concept cross reference index are performed by time-tested BCI processes before they are migrated into this <abbr title="World Wide Web Consortium">W3C</abbr> Registry.
-      </p><p>There are three elements to this registry, two of which may have multiple representations as described below.</p>
+      <p>This W3C Registry specification relies on the de facto industry standard for associating verbal and textual concepts with specific symbols in commonly used Augmentative and Alternative Communication (AAC)
+      symbol sets as developed by <a href="https://www.blissymbolics.org/">Blissymbolics Communication International (BCI)</a>. Additions and extensions to the symbol and concept cross reference index are performed by time-tested BCI processes before they are migrated into this W3C Registry.</li>
+      <p>There are three elements to this registry, two of which may have multiple representations as described below.</p>
       <ol>
-	      <li>A fixed integer numeric value denotes an index reference  by which the following two other elements may be reliably cross-referenced. This is the BCI index value.</li>
-	      <li>The BCI index value references a text-based expression capturing the concept being indexed. At this time we provide only English-based concept equivalents, but support for other languages is anticipated in future revisions of this specification. This expression assists authoring tools in identifying the appropriate index value to be associated with some span of text such as a word or a phrase.</li>
-	      <li>The BCI index value also cross-references at least one SVG image, or pointer to an SVG image, capturing the concept being indexed in a specific Augmentative and Alternative Communication (<abbr title="Augmentative and Alternative Communication">AAC</abbr>) symbol set. This identifies which symbol a user agent should display with, or in lieu of text content. As there are multiple symbol sets in use (which are not mutually comprehensible to <abbr title="Augmentative and Alternative Communication">AAC</abbr> users), it is anticipated that the user agent will preload a library of <abbr title="Augmentative and Alternative Communication">AAC</abbr> symbols for the set indicated by the user's configured preference.</li>
+        <li>A fixed integer numeric value denotes an index reference  by which the following two other elements may be reliably cross-referenced. This is the BCI index value.</li>
+        <li>The BCI index value references a text-based expression capturing the concept being indexed. At this time we provide only English-based concept equivalents, but support for other languages is anticipated in future revisions of this specification. This expression assists authoring tools in identifying the appropriate index value to be associated with some span of text such as a word or a phrase.</li>
+        <li>The BCI index value also cross-references at least one SVG image, or pointer to an SVG image, capturing the concept being indexed in a specific Augmentative and Alternative Communication (AAC) symbol set. This identifies which symbol a user agent should display with, or in lieu of text content. As there are multiple symbol sets in use (which are not mutually comprehensible to AAC users), it is anticipated that the user agent will preload a library of AAC symbols for the set indicated by the user&apos;s configured preference.</li>
       </ol>
     </section>
     <section id="symbol-registry"><div class="header-wrapper"><h2 id="x3-symbol-registry"><bdi class="secno">3. </bdi>Symbol Registry</h2><a class="self-link" href="#symbol-registry" aria-label="Permalink for Section 3."></a></div>
