@@ -1,4 +1,4 @@
-Subject: Alternative and Augmented Communication (AAC) Symbol Registry - first draft
+Subject: For Review: Alternative and Augmented Communication (AAC) Symbol Registry
 
 Dear WAI Interest Group,
 
@@ -19,9 +19,10 @@ To comment, please use one of the following two methods:
 
 Please create separate GitHub issues or email messages for each topic you address, rather than commenting on multiple topics in a single issue or message.
 
-Please send comments by Friday 13 January 2023.
+Please send comments by 13 January 2023.
 
 Regards,
+Sharon D Snider and Lionel Wolberger, WAI-Adapt Task Force Facilitators
 Janina Sajka and Matthew Atkinson, Accessible Platform Architectures (APA) Working Group Co-Chairs
 Roy Ran, W3C Staff Contact for APA Working Group
 
