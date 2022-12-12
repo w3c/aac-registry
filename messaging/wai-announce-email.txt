@@ -1,44 +1,29 @@
+Subject: For Review: Alternative and Augmented Communication (AAC) Symbol Registry
+
 Dear WAI Interest Group,
 
 W3C WAI invites you to comment on the First Public Draft Registry of:
+       W3C Alternative and Augmented Communication (AAC) Symbol Registry
+       https://www.w3.org/TR/aac-registry/
 
-W3C Alternative and Augmented Communication (AAC) Symbol Registry
+Background:
+Symbols are visual representations of words and ideas. Symbol-based communication is used by some people who cannot communicate using speech alone and who have low literacy with text and better fluency with symbols. Symbols are used in many alternative and augmented communication (AAC) systems. For example, the user selects symbols and the AAC device speaks the words.
+A W3C registry is a data set.[1]
 
-https://www.w3.org/TR/aac-registry/
-
-*** Overview ***
-
-The AAC Registry provides an extensible registry for the Blissymbolics Communication International (BCI) concept index. This index provides a mapping between concepts expressed in standard text and  corresponding symbols in major Augmentative and Alternative Communication (AAC) symbol sets in use today.
-
-For in-progress updates to the document, see the Editors' Draft at:
-
-https://w3c.github.io/aac-registry/
+The W3C AAC Symbol Registry provides an extensible registry for the Blissymbolics Communication International (BCI) concept index. This index provides a mapping between concepts expressed in standard text and corresponding symbols in major augmentative and alternative communication (AAC) symbol sets in use today.
 
 To comment, please use one of the following two methods:
+* By GitHub: Please open a new issue in the WAI-Adapt GitHub repository:
+       https://github.com/w3c/aac-registry/issues/new
+* By email: Please send comments in e-mail to <public-adapt@w3.org>. Include [Registry] at the beginning of the subject line of your email message.
 
-* By GitHub:
-please open a new issue in the [WAI-Adapt GitHub repository](https://github.com/w3c/aac-registry/issues/new).
+Please create separate GitHub issues or email messages for each topic you address, rather than commenting on multiple topics in a single issue or message.
 
-* By email:
-Please send comments in e-mail to <public-adapt@w3.org>. Include [Registry]
-as the beginning of your subject line in your email message.
-
-Whether you comment in a github issue or by email, please create separate
-GitHub issues (or email messages) for each topic you address, rather than commenting on multiple topics in a single issue (or email).
-
-Please send comments by Friday 13 January 2023.
-
-***Share***
-
-We encourage you to share this information widely. Please include @w3c_wai, @w3c,
-#accessibility, #a11y, @@ Here's a tweet text you can use:
-
-W3C announces the First Public Draft Registry of *W3C Alternative and Augmented Communication (AAC) Symbol Registry*: https://www.w3.org/TR/aac-registry/, providing first-time support for interoperable Augmentative and Alternative Communication (AAC) symbols support in web content.
+Please send comments by 13 January 2023.
 
 Regards,
-
-Sharon D Snider and Lionel Wolberger, Task Force Facilitators.
-
-Janina Sajka and Matthew Atkinson, APA Working Group Co-Chairs
-
+Sharon D Snider and Lionel Wolberger, WAI-Adapt Task Force Facilitators
+Janina Sajka and Matthew Atkinson, Accessible Platform Architectures (APA) Working Group Co-Chairs
 Roy Ran, W3C Staff Contact for APA Working Group
+
+[1] W3C Registry information is in the W3C Process document at https://www.w3.org/2021/Process-20211102/#registries
