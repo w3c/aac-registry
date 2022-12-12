@@ -7,7 +7,7 @@ W3C WAI invites you to comment on the First Public Draft Registry of:
        https://www.w3.org/TR/aac-registry/
 
 Background:
-Symbols are visual representations of words and ideas. Symbol-based communication is used by some people who cannot communicate using speech alone and who have low literacy. Symbols are used in many alternative and augmented communication (AAC) systems. For example, the user selects symbols and the AAC device speaks the words.
+Symbols are visual representations of words and ideas. Symbol-based communication is used by some people who cannot communicate using speech alone and who have low literacy with text and better fluency with symbols. Symbols are used in many alternative and augmented communication (AAC) systems. For example, the user selects symbols and the AAC device speaks the words.
 A W3C registry is a data set.[1]
 
 The W3C AAC Symbol Registry provides an extensible registry for the Blissymbolics Communication International (BCI) concept index. This index provides a mapping between concepts expressed in standard text and corresponding symbols in major augmentative and alternative communication (AAC) symbol sets in use today.
