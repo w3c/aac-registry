@@ -1,3 +1,6 @@
-Registry First Public Draft: W3C Alternative and Augmented Communication (AAC) Symbol Registry
+---
+title: "Call for Implementations: 'WAI-Adapt: Symbols Module' Candidate Recommendation"
+date: 2023-01-05
+---
 
-W3C and Blissymbolics Communication International (BCI) have jointly published the First Public Draft Registry of the <a href="https://www.w3.org/TR/aac-registry/">W3C Alternative and Augmented Communication (AAC) Symbol Registry</a>. This registry provides a mapping between concepts expressed in standard text and corresponding symbols in major augmentative and alternative communication (AAC) symbol sets in use today. The purpose of this registry is to support augmentative and alternative communication (AAC) symbols in web content. Please send comments by 13 January 2023.
+<p>WAI-Adapt: Symbols Module is a technical specification that enables symbols to replace text in web content. It's now a W3C 'Candidate Recommendation'. That means we're seeking example implementations. To learn more, start with the <a href="https://lists.w3.org/Archives/Public/public-wai-announce/2023JanMar/0000.html">e-mail announcement</a> and the <a href="https://w3.org/WAI/adapt/">WAI-Adapt Overview</a>.</p>
